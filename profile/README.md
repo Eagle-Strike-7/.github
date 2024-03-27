@@ -50,7 +50,7 @@
             </td>
             <td width="100" align="center">
                 <a href="https://github.com/Sooamazing">
-                    <img src="https://i.imgur.com/AVqIC6j.png" width="60" height="60">
+                    <img src="https://i.imgur.com/CfM8RfB.png" width="60" height="60">
                 </a>
             </td>
         </tr>
